@@ -43,4 +43,6 @@ launchd         — 서비스 스케줄링 (15+ daemons)
 
 ---
 
+Third-party names and badge logos are used only to describe technologies. See [NOTICE.md](./NOTICE.md) for trademark and reuse notes.
+
 <sub>자연에서 배운 느림과 기술의 빠름을 함께 씁니다.</sub>
