@@ -1,7 +1,9 @@
 # 이상민 (Sangmin Lee)
 
-> **한눈에 / At a glance**  
-> AI automation, public-interest projects, landscaping/nature work, and homelab notes.  
+> **한눈에 / At a glance**
+>
+> AI automation, public-interest projects, landscaping/nature work, and homelab notes.
+>
 > 자세한 한영 소개, 검색 키워드, 저작권 범위: [PROJECT.md](./PROJECT.md) · [NOTICE.md](./NOTICE.md)
 
 
