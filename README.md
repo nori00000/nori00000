@@ -1,5 +1,10 @@
 # 이상민 (Sangmin Lee)
 
+> **한눈에 / At a glance**  
+> AI automation, public-interest projects, landscaping/nature work, and homelab notes.  
+> 자세한 한영 소개, 검색 키워드, 저작권 범위: [PROJECT.md](./PROJECT.md) · [NOTICE.md](./NOTICE.md)
+
+
 자연과 기술이 만나는 곳에서 일합니다.
 
 **어반정글** 대표 — 조경·힐링 공간 기획  
